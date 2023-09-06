@@ -15,3 +15,5 @@ Instructions for Running the ROS Scripts:
 5. To visualize a graph depicting the average temperatures, employ the 'rqt_plot' command and select the 'top_display' topic.
 6. For a graphical representation of the project's node and topic structure, run 'rqt_graph'.
 
+# Project 2 #
+**Movement control**
