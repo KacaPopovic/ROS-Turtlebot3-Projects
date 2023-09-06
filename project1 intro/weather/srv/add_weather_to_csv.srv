@@ -1,0 +1,5 @@
+int64 maks
+int64 min
+float64 average
+---
+bool response
