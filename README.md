@@ -1,7 +1,7 @@
 # ROS-Turtlebot3-Projects
 Projects in autonomous mobile robotics using Robot Operating System, Gazebo and Turtlebot3
 
-# Project 1#
+# Project 1 #
 **Introduction to ROS**
 
 We've structured this project by creating distinct nodes to handle specific tasks. Each of these nodes corresponds to a particular action that needs to be executed. These actions include loading data into the measurements node, data processing within the processing node, data display in the display node, and an action node responsible for signaling specific events within the data. Communication between these nodes is facilitated through ROS topics, and you can gain a visual understanding of the nodes and topics through the 'graph.png' file provided in the project directory. Additionally, we've incorporated functionality for adding new data, such as temperature readings, using the 'add_new_values' service.
