@@ -1,5 +1,6 @@
 # ROS-Turtlebot3-Projects
-Project in autonomous mobile robotics
+Projects in autonomous mobile robotics using Robot Operating System, Gazebo and Turtlebot3
+
 # Project 1#
 **Introduction to ROS**
 
