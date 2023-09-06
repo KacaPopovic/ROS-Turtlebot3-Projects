@@ -1,0 +1,8 @@
+string rezim
+string lin_kretanje
+string rot_kretanje
+float64 x_goal
+float64 y_goal
+float64 theta_goal
+---
+bool response
